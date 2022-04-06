@@ -47,5 +47,5 @@ We slightly modified the original code so that we can run it with Python 3 and t
 As reported in our BBOB workshop paper, the Python code is time-consuming for large dimensions. We suggest using  the batch mode as follows, where it is based on ``example_experiment.py`` (https://github.com/numbbo/coco/tree/master/code-experiments/build/python). The following command runs the 77-th of 100 batches:
 
 ```
-$ python batched\_step\_run.py bbob-largescale 1e3 77 100
+$ python batched_step_run.py bbob-largescale 1e3 77 100
 ```
