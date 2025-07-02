@@ -2,7 +2,7 @@
 
 This repository provides the code to reproduce results shown in the following paper.
 
-> Ryoji Tanabe, **Benchmarking the Hooke-Jeeves Method, MTS-LS1, and BSrr on the Large-scale BBOB Function Set**, submitted.
+> Ryoji Tanabe, **Benchmarking the Hooke-Jeeves Method, MTS-LS1, and BSrr on the Large-scale BBOB Function Set**, [pdf](https://arxiv.org/abs/2204.13284).
 
 The code highly depends on the COCO software:
 
